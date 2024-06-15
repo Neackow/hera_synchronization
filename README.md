@@ -1,2 +1,2 @@
 # hera_synchronization
-Hera synchronisation repository for my TFE
+Refer to the hera repository for more information: [https://github.com/Neackow/hera](https://github.com/Neackow/hera)
